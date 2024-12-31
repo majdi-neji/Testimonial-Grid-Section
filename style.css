@@ -91,7 +91,7 @@ body {
 }
 .status {
   color: var(--Light-gray);
-  font-size: 0.75;
+  font-size: 0.75rem;
 }
 /*********************************Tablets and small Desktops**************************************************/
 @media screen and (min-width: 768px) {
